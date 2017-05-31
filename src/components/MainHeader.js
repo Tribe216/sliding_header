@@ -1,7 +1,6 @@
 'use strict';
 
 import React from 'react';
-import { Link } from 'react-router';
 import SubHeader from './SubHeader';
 import subHeaderData from '../data/subHeaderData';
 
